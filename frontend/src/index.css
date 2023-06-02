@@ -24,7 +24,7 @@ body{
   text-align: center;
 }
 
-section{
+.section{
 background-image:url("./images/background/bg6.jpg");
   background-repeat: no-repeat;
   background-size: cover;
